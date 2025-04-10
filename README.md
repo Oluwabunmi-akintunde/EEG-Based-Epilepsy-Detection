@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook that walks through the complete pipe
 
 ## Notebook Overview
 
-###  'Math516 Coursework - EEG-Based Epilepsy Detection.ipynb`
+###  'Math516 Coursework - EEG-Based Epilepsy Detection.ipynb'
 This notebook contains all the analysis, broken into six clearly labeled sections:
 
 1. **Data Preparation**
