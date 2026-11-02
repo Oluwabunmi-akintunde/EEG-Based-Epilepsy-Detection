@@ -1,7 +1,9 @@
 # EEG-Based Epilepsy Detection with Machine Learning
 
 **Tools:** Python, pandas, NumPy, scikit-learn, seaborn, matplotlib, Jupyter Notebook
+
 **My role:** Data Analyst (sole author)
+
 **Project type:** MSc coursework, MATH516 Machine Learning and Artificial Intelligence for Healthcare, University of Plymouth
 **Data:** Public Kaggle dataset of EEG features from 198 subjects (99 with epilepsy, 99 without). Each subject has 40 pre-extracted features: power, fractal dimension and six wavelet coefficients for each of the five frequency bands (delta, theta, alpha, beta, gamma).
 
